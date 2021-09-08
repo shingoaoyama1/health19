@@ -1,0 +1,6 @@
+tracing.covid19.govt.nz
+api.tracing.covid19.govt.nz
+enf.tracing.covid19.govt.nz
+exposure-events.tracing.covid19.govt.nz
+static.tracing.covid19.govt.nz
+nz-covid-tracer-app---prod.firebaseio.com
